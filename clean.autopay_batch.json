@@ -17,7 +17,7 @@
       "duration_epochs": 1000
     },
     {
-      "note": "a good list: automated donations to non-profits, https://github.com/LOL-LLC/a-good-list",
+      "note": "a good list, automated donations to non-profits, https://github.com/LOL-LLC/a-good-list",
       "uid": 2,
       "destination": "1691A76AF070B76FD8E2F07CD39AFC49",
       "type_of": "PercentOfChange",
