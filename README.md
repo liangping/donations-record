@@ -41,6 +41,9 @@ Autopay-Batch file used to donate first 30 days of mining by 46A7A, on 2021-3-10
 
 ## Ongoing
 
+File for reference: https://github.com/LOL-LLC/donations-record/blob/main/ongoing.autopay_batch.json
+
+
 ```js
 {
 "autopay_instructions": [
