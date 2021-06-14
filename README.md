@@ -333,7 +333,8 @@ Note, that not all programs existed at the time I did the transaction, e.g. Full
 
 To execute this transaction one would use the "txs" app. Assuming the file is named first_month.autopay_batch.json
 
- 	
+
+```
 >	txs autopay-batch -f first_month.autopay_batch.json
 ```
 
