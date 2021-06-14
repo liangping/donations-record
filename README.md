@@ -134,6 +134,8 @@ TL;DR: there are two "autopay" configuration files involved, and they were submi
 
 Steps:
 
+
+- I checked out v4.3.2 code.
 - Fill out autopay_batch.json and place in ~/.0L
 - Create the backdated file with `onboard fix --account`
 - Submit the backdated tx with `txs autopay-batch -f ~/.0L/back.autopay_batch.json`
