@@ -22,13 +22,13 @@ Networks try to solve this by binding contributions to rewards. But in certain c
 
 I recognize that I am a free rider on work of current and future generations of 0L participants. To do my part to combat the problem, at the genesis of "experimental-network"  I've pledged to donate to causes and programs that ensure the survival of the network. 
 
-**My pledge is simple. I'm giving 25% of my mining to different programs; a subscription to network survival. Your number may be different.**
+**My pledge is simple. I'm giving 25% of my mining to different programs; a subscription to network survival. **
 
 Today, I'm making good on my pledge, and documenting how I did it.
 
 Besides this pledge, in February I also donated my "first month of mining": and that is documented publicly here: (link). In that case I gave away 100% of my 1st month of my rewards. At the time the maturity of the 0L  tooling did not allow me to execute the ongoing 25% donation. 
 
-So as of June 14th 2021, **I've donated 41% of my mining rewards to different ecosystem participants**.
+So as of June 14th 2021, **I've donated 41% of my mining rewards to different ecosystem participants**. Your situation and number may be different.
 
 ## Here's how I think about my pledge 
 
