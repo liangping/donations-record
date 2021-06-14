@@ -246,7 +246,8 @@ You'll send two batches of transactions, one from each file:
 > txs autopay-batch -f ~/.0L/autopay_batch.json 
 
 
-#### What happened next: 
+#### What happened next:
+
 The backdated donations ran once on the following epoch after the transaction. It debited 25% of the existing balance. Then the instructions were no longer needed.
 The ongoing donations did nothing on the first epoch (technically 25% of 0 new balance), and in subsequent epochs did 25% of new incoming balance.
 
@@ -259,6 +260,7 @@ While the file formats have changed in the months since. This would be an equiva
 
 Note, that not all programs existed at the time I did the transaction, e.g. Fulltime Engineering, and A Good List.
 
+```
 {
  "instructions": [
    {
@@ -327,13 +329,13 @@ Note, that not all programs existed at the time I did the transaction, e.g. Full
    }
  ]
 }
-
+```
 
 To execute this transaction one would use the "txs" app. Assuming the file is named first_month.autopay_batch.json
 
-  	
+ 	
 >	txs autopay-batch -f first_month.autopay_batch.json
-
+```
 
 
 
