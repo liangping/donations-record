@@ -244,8 +244,10 @@ Started with future donations:  "autopay_batch.json". Having that, I can use the
 
 You'll send two batches of transactions, one from each file:
 
-> txs autopay-batch -f ~/.0L/back.autopay_batch.json 
-> txs autopay-batch -f ~/.0L/autopay_batch.json 
+``` 
+txs autopay-batch -f ~/.0L/back.autopay_batch.json 
+txs autopay-batch -f ~/.0L/autopay_batch.json
+```
 
 
 #### What happened next:
